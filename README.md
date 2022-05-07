@@ -8,4 +8,4 @@ Hey, Guys, I hope you are looking for How to work with NotificationCenter. If Ye
 
 
 
-![alt text](https://github.com/pushpendra996/table-view-magic/blob/main/NotificationCenter.jpeg?raw=true)
+![alt text](https://github.com/pushpendra996/notification-center-ios/blob/main/NotificationCenter.jpeg?raw=true)
